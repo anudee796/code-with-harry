@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-color: aqua;
+            }
+            .class{
+                color:green;
+            }
+        </style>
+    </head>
+    <body>
+        <center>
+            <form action="backend.php">
+            <div class="class">
+            username:<input type="text" name="name">
+        </div>
+        <br>
+        <div class="class">
+            email:<input type="email" name="myemail">
+        </div>
+        <br>
+         <div class="class">
+            date:<input type="date" name="myemail">
+        </div>
+        <br>
+        
+        <div class="class">
+            are you eligible?<input type="checkbox" name="checkbox">
+        </div>
+        <br>
+        <div class="class">
+            gender male<input type="radio" name="radio"> female<input type="radio" name="radio">
+        </div>
+        <br>
+        <div class="class">
+            tell me about yourself<br><input type="textarea" name="myemail" rows="100" cols="20">
+        </div>
+        <br>
+        <div class="class">
+            submit:<input type="submit" name="submit now">
+        </div>
+        <div class="class">
+            reset:<input type="reset" name="reset now">
+        </div>
+        <br>
+        </form>
+        
+        </center>
+    </body>
+</html>
