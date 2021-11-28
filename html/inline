@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <style>
+            p{
+                border-style: solid;
+                border-color: blue;
+                border-width: 2px;
+                color:green;
+            }
+            span{
+                border-style: solid;
+               border-color: aqua;
+                border-width: 2px;
+                color:green;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <p>this paragraph</p><!--block elements take whole width-->
+         <p>this is also paragraph</p><!--block element-->
+         <span>hello</span><span>world</span><!--inline elements take only the data avaiabe space-->
+    </body>
+</html>
