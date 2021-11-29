@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <style>
+        body{
+            background-color: purple;
+        }
+            div{
+                background-color: grey;
+                width:auto;
+                height:auto;
+                border:3px solid green;
+                margin:10px;
+                padding:10px;
+                width:400px;
+            }
+        </style>
+    </head>
+    <body>
+        <center><div>
+            <h1>fruits are good for health</h1>
+            <p>all should eat the fruits so 
+            make it compulsory</p>
+        </div>
+        <div>
+            <h1>dates are good for health</h1>
+            <p>all should eat the dates so 
+            make it compulsory</p>
+        </div>
+        <div>
+            <h1>almonds are good for health</h1>
+            <p>all should eat the almonds so 
+            make it compulsory</p>
+        </div></center>
+    </body>
+</html>
