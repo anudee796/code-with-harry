@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+            h3{
+                background-color: grey;
+                color:blue;
+                height:100px;
+                width:100px;
+                border:2px solid green;
+                border-radius: 2px;
+            }
+            body{
+                background-color: aqua;
+            }
+        </style>
+    </head>
+    <body>
+        <h3>hello i am anudeep</h3><br>
+        <h3>i belongs to nitp</h3>
+    </body>
+</html>
