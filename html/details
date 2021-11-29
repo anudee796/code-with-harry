@@ -1,0 +1,42 @@
+<html>
+    <head>
+    <style>
+        summary{
+            color:green;
+        }
+        h1{
+            text-align:center;
+            color:tomato;
+        }
+        footer{
+            text-align: center;
+            color:grey;
+        }
+        li{
+           
+            color:blue;
+        }
+        *{
+            background-color: aqua;
+        }
+    </style>    
+    </head>
+    <body>
+        <details>
+            <summary>about maggy making</summary>
+            <article>
+                <h1>maggy making</h1>
+                <ul>
+                    <center>
+                        <li>take noodles</li>
+                    <li>take allo</li>
+                    </center>
+                    
+                </ul>
+                <footer>
+                    this is making
+                </footer>
+            </article>
+        </details>
+    </body>
+</html>
