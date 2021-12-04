@@ -1,0 +1,19 @@
+<html>
+    <head>
+       <style>
+           .class{
+    background-color: blue;
+    color:red;
+}
+.blue{
+    background-color: green;
+    color:white;
+}
+       </style>
+    </head>
+    <body>
+        <div class="class blue">
+            <h1>hello i am anudeep</h1>
+        </div>
+    </body>
+</html>
