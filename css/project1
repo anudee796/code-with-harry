@@ -1,0 +1,32 @@
+<html>
+    <head>
+        <style>
+            body{
+                background-image: url('https://www.article19.org/wp-content/uploads/2019/06/shutterstock_573033001.jpg');
+                background-size: 75% 100%;
+                /*border:2px solid red;*/
+                background-repeat: no-repeat;
+                margin-left:770px;
+                 background-color: grey;
+            
+            }
+            .class{
+                color:blue;
+            }
+        
+               
+        </style>
+    </head>
+    <body>
+        <h1 class="class">social media</h1>
+        <ul type="square">
+            <h2>
+                <li>facebook</li>
+            <li>linkedin</li>
+            <li>snapchat</li>
+            </h2>
+            
+        </ul>
+        <h1>these are main of the all social media</h1>
+    </body>
+</html>
